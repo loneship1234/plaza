@@ -40,7 +40,7 @@ export default function Header() {
             </div>
             <ul className="MENU-LINK-MOBILE-OPEN flex flex-col items-end  min-h-[50px]">
               <li className="border-b border-gray-400 my-8">
-                <span className="bg-gray-200 px-[123px] py-7 border-b-4 border-red-500 text-700 font-bold">منو</span>
+                <span className="bg-gray-200 px-[140px] py-8 border-b-4 border-red-500 text-700 font-bold">منو</span>
               </li>              
             </ul>
            <ul className="flex flex-col items-end">
